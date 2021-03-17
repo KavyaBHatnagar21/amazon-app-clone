@@ -11,3 +11,5 @@ This project lets the user: <br>
 This Amazon-clone is build with React and materialUI for the front end and with firebase for the database, authentication and hosting.
 
 [See the project](https://app-clone-3ee25.web.app)
+
+
